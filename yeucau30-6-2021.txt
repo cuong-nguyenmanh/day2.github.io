@@ -1,0 +1,10 @@
+Upload a Single video of your OUTPUT which contains - Homepage , About us, Gallery - You must click your navbar and open them &&& show me the Footer - click the social media icons 
+OR - those who cannot take videos, you may click screenshots of all your outputs and submit it.
+Submit your html file as well - homepage, about us, gallery
+Try to do your own styling - extra marks for that 😁 (else you won't learn coding)
+
+
+
+1. Include a brief introduction about your website in 2 columns - 1 row
+2. Include a "Meet the Team" into your About us page  (new section)
+3. Include a "Testimonial" below the meet the team (last section)
